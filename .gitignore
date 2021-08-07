@@ -1,0 +1,5 @@
+#sqlite database files
+*.db
+
+#Jupyter notebook files
+*.ipynb
